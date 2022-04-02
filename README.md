@@ -33,7 +33,7 @@ o seu principal objetivo é criar um hook de carrinho de compras. Você terá ac
 - [x] Cálculo dos preços sub-total e total do carrinho;
 - [x] Validação de estoque;
 - [x] Exibição de mensagens de erro;
-- [x] Testes front-end.
+- [x] Testes no Front-end.
 
 # :wrench: Instalação e uso
 
