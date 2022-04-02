@@ -15,20 +15,23 @@ o seu principal objetivo é criar um hook de carrinho de compras. Você terá ac
 
 # :rocket: Tecnologias
 
+- [CRA](https://create-react-app.dev/)
 - [React](https://pt-br.reactjs.org/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Webpack](https://webpack.js.org/)
-- [Sass](https://sass-lang.com/)
+- [Styled-Components](https://styled-components.com/)
 - [Jest](https://jestjs.io/pt-BR/)
 - [Testing Library](https://testing-library.com/)
 
 # :clipboard: To Do
 
-- [x] Adicionar uma nova tarefa
-- [x] Remover uma tarefa
-- [x] Marcar e desmarcar uma tarefa como concluída
-- [x] Testes no Front-end 
+- [x] Adicionar um novo produto ao carrinho;
+- [x] Remover um produto do carrinho;
+- [x] Alterar a quantidade de um produto no carrinho;
+- [x] Cálculo dos preços sub-total e total do carrinho;
+- [x] Validação de estoque;
+- [x] Exibição de mensagens de erro;
+- [x] Testes front-end.
 
 # :wrench: Instalação e uso
 
