@@ -51,7 +51,7 @@ yarn
 yarn server
 
 # Execute aplicação
-yarn dev
+yarn start
 ```
 
 # :page_with_curl: Licença
