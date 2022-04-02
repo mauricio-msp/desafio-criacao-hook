@@ -56,7 +56,7 @@ yarn dev
 
 # :page_with_curl: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/mauricio-msp/rocketshoes/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/mauricio-msp/rocketshoes/blob/master/LICENSE) para mais detalhes.
 
 ---
 
