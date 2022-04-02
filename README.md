@@ -18,8 +18,10 @@ o seu principal objetivo é criar um hook de carrinho de compras. Você terá ac
 - [CRA](https://create-react-app.dev/)
 - [React](https://pt-br.reactjs.org/)
 - [React Icons](https://react-icons.github.io/react-icons/)
+- [React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)
 - [Typescript](https://www.typescriptlang.org/)
 - [Styled-Components](https://styled-components.com/)
+- [Polished](https://polished.js.org/)
 - [Jest](https://jestjs.io/pt-BR/)
 - [Testing Library](https://testing-library.com/)
 
